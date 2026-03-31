@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Holiday / Boulevard of Broken Dreams",
+  "base_artist": "Green Day",
+  "createdAt": "2026-03-31T05:12:57.904482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_Holiday_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Holiday_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Holiday Home",
+      "artist": "Zoot Woman",
+      "has_synced": true,
+      "path": "select/03_Holiday_Home_Zoot_Woman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/04_Holiday_KSI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_Holiday_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/06_Holiday_Metronomy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holiday",
+      "artist": "Micachu & The Shapes",
+      "has_synced": true,
+      "path": "select/07_Holiday_Micachu_&_The_Shapes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Holiday in",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/08_Holiday_in_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Roman Holiday",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/09_Roman_Holiday_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bank Holiday",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Bank_Holiday_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "National Working Woman's Holiday",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/11_National_Working_Woman's_Holiday_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "National Working Woman's Holiday (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/12_National_Working_Woman's_Holiday_(Album_Version)_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Lovers Holiday (12\" Version)",
+      "artist": "Change",
+      "has_synced": false,
+      "path": "select/13_A_Lovers_Holiday_(12__Version)_Change.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Holiday (A7S Remix)",
+      "artist": "KSI feat. A7S",
+      "has_synced": true,
+      "path": "select/14_Holiday_(A7S_Remix)_KSI_feat._A7S.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Holiday (A7S Remix)",
+      "artist": "KSI",
+      "has_synced": true,
+      "path": "select/15_Holiday_(A7S_Remix)_KSI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hooligan's Holiday",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/16_Hooligan's_Holiday_Mötley_Crüe.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holiday",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_Holiday_Green_Day.txt"
+    }
+  ]
+}
